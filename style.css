@@ -1,0 +1,18 @@
+body {
+	font-family: arial, sans-serif, helvetica;
+	width: 720px;
+	position: relative;
+	margin-left: auto; margin-right: auto;
+	text-align: justify;
+}
+
+h1 { width: 100%; }
+h2 { font-size: larger; }
+hr { background-color: black; border: 0; height: 2px; }
+li { margin-bottom: 0.5em; }
+a { color: #AF1E2D; text-decoration: none; }
+
+#main { position: relative; margin-left: auto; margin-right: auto; }
+#email { float: left; }
+#address { position: relative; float: right; margin-top: 5%; }
+#footer { font-family: georgia; border-top: 1px solid #000; color: #999; width: 100%; }
